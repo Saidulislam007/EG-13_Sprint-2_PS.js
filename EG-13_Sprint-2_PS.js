@@ -45,8 +45,8 @@ function sumArray(nums) {
 }
 
 /**
- * @param {string} str
- * @return {number}
+ *@param {string} str
+ *@return {number}
  */
 function countVowels(str) {
   let count = 0;
